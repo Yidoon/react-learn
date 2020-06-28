@@ -18,6 +18,12 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+ul li {
+  text-decoration: none;
+  list-style: none;
+  display: inline-block;
+  margin: 0 20px;
+}
 
 .App-link {
   color: #61dafb;
